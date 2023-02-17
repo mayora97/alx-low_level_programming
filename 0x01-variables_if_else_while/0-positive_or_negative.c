@@ -4,6 +4,9 @@
 
 /**
  * main - Prints if number is positive, zero, or negative
+ * 
+ * This program will assign a random number to the variable n each time it is
+ * executed, and the print whether the number is positive or negative
  * Return: Always (Success)
  *
  */
